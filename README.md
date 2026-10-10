@@ -1,5 +1,9 @@
 # N-Puzzle Solver
 
+> ***Professor: Leyla Muradkhanli***    \
+> ***Student: Huseyn Movla***         \
+> ***Subject: Foundations of Artificial Intelligence***
+
 Optimal solver for the 3×3, 4×4 and 5×5 sliding puzzles (8-, 15- and 24-puzzle) in C++17.
 Search algorithms and heuristics are pluggable.
 
